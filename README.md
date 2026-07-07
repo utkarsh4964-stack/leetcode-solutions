@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/utkarsh4964-stack/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/utkarsh4964-stack/leetcode-solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/utkarsh4964-stack/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/utkarsh4964-stack/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/utkarsh4964-stack/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0485-max-consecutive-ones](https://github.com/utkarsh4964-stack/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0881-boats-to-save-people](https://github.com/utkarsh4964-stack/leetcode-solutions/tree/master/0881-boats-to-save-people) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/utkarsh4964-stack/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/utkarsh4964-stack/leetcode-solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/utkarsh4964-stack/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/utkarsh4964-stack/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/utkarsh4964-stack/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/utkarsh4964-stack/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/utkarsh4964-stack/leetcode-solutions/tree/master/0344-reverse-string) |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/utkarsh4964-stack/leetcode-solutions/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/utkarsh4964-stack/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0881-boats-to-save-people](https://github.com/utkarsh4964-stack/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/utkarsh4964-stack/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Math

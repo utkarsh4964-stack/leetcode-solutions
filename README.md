@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/utkarsh4964-stack/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/utkarsh4964-stack/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/utkarsh4964-stack/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/utkarsh4964-stack/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/utkarsh4964-stack/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/utkarsh4964-stack/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/utkarsh4964-stack/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/utkarsh4964-stack/leetcode-solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/utkarsh4964-stack/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/utkarsh4964-stack/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/utkarsh4964-stack/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0881-boats-to-save-people](https://github.com/utkarsh4964-stack/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/utkarsh4964-stack/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -64,10 +66,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/utkarsh4964-stack/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/utkarsh4964-stack/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/utkarsh4964-stack/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/utkarsh4964-stack/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/utkarsh4964-stack/leetcode-solutions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/utkarsh4964-stack/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
